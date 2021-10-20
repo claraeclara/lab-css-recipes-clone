@@ -45,3 +45,11 @@ hr {
     padding: 10px 40px;
     margin: 10px;
 }
+
+ul {
+    list-style-type: "- ";
+}
+
+ol {
+    list-style-type: none;
+}
